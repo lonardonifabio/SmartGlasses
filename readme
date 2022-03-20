@@ -1,0 +1,7 @@
+This is a prototype, i've created for HyperSenz, a startup company with mission to support people with disability by artificial intelligence solutions.
+This prototype is built with Raspberry Pi, Python code and a 3d printer.
+An OCR engine is able to extract text from an image and a TTS algorithm is able to reproduce the voice/text from a neck speacker.
+With this prototype, blind people are able to read a book.
+
+Demo: https://youtu.be/wqBnXo4V1Dw
+Project: https://www.hypersenz.ai
